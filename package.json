@@ -10,6 +10,11 @@
     "config": {},
     "author": "likaiqiang",
     "license": "ISC",
+    "files": [
+        "dist",
+        "examples",
+        "src"
+    ],
     "dependencies": {
         "request": "^2.88.0",
         "request-promise": "^4.2.4"
